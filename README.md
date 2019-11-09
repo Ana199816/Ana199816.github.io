@@ -2,7 +2,7 @@ For this project I have created 3 separate pages that make up my portfolio. It i
 
 You will need to have internet access and this link (https://ana199816.github.io/) to view the page. Once there you can navigate the site using the three tabs at the top "About, Portfolio and Contact." You can interact with the portfolio page by clicking on the items as the scroll or manually scroll the items using the right and left arrows.
 
-Screenshots: https://github.com/Ana199816/homework-02/tree/master/assets/images
+Screenshots: https://github.com/Ana199816/Ana199816.github.io/tree/master/assets/images
 
 Built With: Visual Code Studio, style.css...
-
+<img src="assets/images/portfolio.screenshot.png">
