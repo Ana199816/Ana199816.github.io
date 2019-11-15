@@ -12,8 +12,6 @@ html {
     color: -internal-root-color;
    
 }
-
-
 meta {
     display: none;
 }
@@ -34,6 +32,7 @@ body {
     height: 100%;
     background-repeat: no-repeat;
     background-size: 100%;
+
 }
 #masthead {
     position: fixed;
